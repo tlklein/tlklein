@@ -15,4 +15,5 @@ I'm studying computer information systems at the University of Houston and am an
 ### References & Inspiration
 1. https://github.com/maximousblk/maximousblk/tree/main
 2. https://github.com/ChungZH/ChungZH/edit/master/README.md
-3. https://stackoverflow.com/questions/4823468/comments-in-markdown 
+3. https://stackoverflow.com/questions/4823468/comments-in-markdown
+4. https://emojipedia.org/
