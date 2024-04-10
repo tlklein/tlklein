@@ -2,7 +2,7 @@
 
 # Hello, I am Trinity Klein! 
 
-I'm studying computer information systems at the University of Houston and am an IT Technology Specialist at Southeast Hypnosis. Please send me an email if you want to send me a message!
+I'm studying Computer Information Systems at the University of Houston. I am an IT Technology Specialist at Southeast Hypnosis. Also, I am the Social Media Manager and Tech Support at The Cam Agency. Please send me an email if you want to send me a message!
 
 [comment]: < [`📂 maximousblk.me`](https://maximousblk.me/) >
 [`📧 trinitylklein@outlook.com`](mailto:trinitylklein@outlook.com)
