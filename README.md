@@ -4,17 +4,24 @@
 
 I'm studying Computer Information Systems at the University of Houston. I am an IT Technology Specialist at Southeast Hypnosis. Also, I am the Social Media Manager and Tech Support at The Cam Agency. Please send me an email if you want to send me a message!
 
-[comment]: < [`📂 maximousblk.me`](https://maximousblk.me/) >
 [`📧 trinitylklein@outlook.com`](mailto:trinitylklein@outlook.com)
 [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
 
-[comment]: < ##  My projects >
-[comment]: < - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi >
+ ##  My Projects
+[tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) 
+- This code is a simple form app in Vue, HTML, and JS. It is a form app that can calculate the total of facilities based on the button the user clicks.
 
-## Projects
-1. [`Simple Form in VueJS`](https://github.com/tlklein/simple-form-vue)
-2. [`Data Platform Project`](https://github.com/tlklein/mongodb-crud-rest-api)
-3. 
+[tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)
+- This is a small MongoDB that has a front-end web application and a backend application that performs CRUD operations.
+
+[tlklein/trinity-klein-website](https://github.com/tlklein/trinity-klein-website)
+- This is my portfolio website. It uses JS, CSS, TypeScript, and Astro.
+
+[tlklein/mongodb-exercises](https://github.com/tlklein/mongodb-exercises)
+- A collection of various scripts for working in the back-end of a MongoDB Database.
+
+[tlklein/oracle-sql-clouddb](https://github.com/tlklein/oracle-sql-clouddb) 
+- A collection of documents and scripts for an Oracle SQL database using Oracle SQL Developer.
  
 ### References & Inspiration
 1. https://github.com/maximousblk/maximousblk/tree/main
