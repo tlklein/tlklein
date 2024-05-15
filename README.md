@@ -8,9 +8,9 @@ I'm studying Computer Information Systems at the University of Houston. I am an 
 [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
 
  ##  My Projects
-[tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on the button the user clicks.
+[tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on user activity.
 
-[tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a small MongoDB that has a front-end web application and a backend application that performs CRUD operations.
+[tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a MongoDB that has a front-end web & backend application to perform CRUD operations.
 
 [tlklein/trinity-klein-website](https://github.com/tlklein/trinity-klein-website)- This is my portfolio website. It uses JS, CSS, TypeScript, and Astro.
 
