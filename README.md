@@ -12,7 +12,9 @@ I'm studying Computer Information Systems at the University of Houston. I am an 
 [comment]: < - [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi >
 
 ## Projects
-1. [`Simple Form in VueJS`][https://github.com/tlklein/simple-form-vue] 
+1. [`Simple Form in VueJS`](https://github.com/tlklein/simple-form-vue)
+2. [`Data Platform Project`](https://github.com/tlklein/mongodb-crud-rest-api)
+3. 
  
 ### References & Inspiration
 1. https://github.com/maximousblk/maximousblk/tree/main
