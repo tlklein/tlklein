@@ -2,12 +2,12 @@
 
 # Hello, I am Trinity Klein! 
 
-I'm studying Computer Information Systems at the University of Houston. I am an IT Technology Specialist at Southeast Hypnosis. Also, I am the Social Media Manager and Tech Support at The Cam Agency. Please send me an email if you want to send me a message!
+I am an IT Technology Specialist at Southeast Hypnosis. I'm studying Computer Information Systems at the University of Houston. Please send me an email if you have any questions!
 
 [`📧 trinitylklein@outlook.com`](mailto:trinitylklein@outlook.com)
 [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
 
- ##  My Projects
+ #  My Projects
 [tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on user activity.
 
 [tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a MongoDB that has a front-end web & backend application to perform CRUD operations.
@@ -18,7 +18,7 @@ I'm studying Computer Information Systems at the University of Houston. I am an 
 
 [tlklein/oracle-sql-clouddb](https://github.com/tlklein/oracle-sql-clouddb) - A collection of documents and scripts for an Oracle SQL database using Oracle SQL Developer.
  
-### References & Inspiration
+# References 
 1. https://github.com/maximousblk/maximousblk/tree/main
 2. https://github.com/ChungZH/ChungZH/edit/master/README.md
 3. https://stackoverflow.com/questions/4823468/comments-in-markdown
