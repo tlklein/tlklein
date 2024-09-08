@@ -2,12 +2,12 @@
 
 # Hello, I am Trinity Klein! 
 
-I am an IT Technology Specialist at Southeast Hypnosis. I'm studying Computer Information Systems at the University of Houston. Please send me an email if you have any questions!
+I am an IT Technology Support at Southeast Hypnosis. I'm studying Computer Information Systems at the University of Houston. Please send me an email if you have any questions!
 
 [`📧 trinitylklein@outlook.com`](mailto:trinitylklein@outlook.com)
 [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
 
- #  My Projects
+ # Projects
 [tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on user activity.
 
 [tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a MongoDB that has a front-end web & backend application to perform CRUD operations.
