@@ -9,13 +9,13 @@ I am an IT technical support at Southeast Hypnosis. I'm studying computer inform
 
  # Projects
 
-[tlklein/helios](https://github.com/tlklein/helios) - This is a application that is used to make basic preditions about F1 race results
-
-[tlklein/trinity-klein-website](https://github.com/tlklein/trinity-klein-website)- This is my portfolio website. It uses JS, CSS, TypeScript, and Astro.
-
 [tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a MongoDB that has a front-end web & backend application to perform CRUD operations.
 
+[tlklein/helios](https://github.com/tlklein/helios) - This is a application that is used to make basic preditions about F1 race results
+
 [tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on user activity.
+
+[tlklein/trinity-klein-website](https://github.com/tlklein/trinity-klein-website)- This is my portfolio website. It uses JS, CSS, TypeScript, and Astro.
 
 [tlklein/mongodb-exercises](https://github.com/tlklein/mongodb-exercises)- A collection of various scripts for working in the back-end of a MongoDB Database.
 
