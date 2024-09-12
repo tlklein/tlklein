@@ -4,7 +4,7 @@
 
 I am an IT technical support at Southeast Hypnosis. I'm studying computer information systems at the University of Houston. It's nice to see you on my github profile. Please send me an email if you have any questions or inquiries. 
 
-[`📧 trinitylklein@outlook.com`](mailto:trinitylklein@outlook.com)
+[`📧 tlklein@cougarnet.uh.edu`](mailto:tlklein@cougarnet.uh.edu)
 [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
 
  # Projects
