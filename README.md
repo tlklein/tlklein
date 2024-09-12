@@ -15,8 +15,6 @@ I am an IT technical support at Southeast Hypnosis. I'm studying computer inform
 
 [tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on user activity.
 
-[tlklein/trinity-klein-website](https://github.com/tlklein/trinity-klein-website)- This is my portfolio website. It uses JS, CSS, TypeScript, and Astro.
-
 [tlklein/mongodb-exercises](https://github.com/tlklein/mongodb-exercises)- A collection of various scripts for working in the back-end of a MongoDB Database.
 
 [tlklein/oracle-sql-clouddb](https://github.com/tlklein/oracle-sql-clouddb) - A collection of documents and scripts for an Oracle SQL database using Oracle SQL Developer.
