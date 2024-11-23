@@ -12,13 +12,15 @@ I am an IT technical support at Southeast Hypnosis. I'm studying computer inform
 
 [tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a MongoDB that has a front-end web & backend application to perform CRUD operations.
 
-[tlklein/networkdesign](https://github.com/tlklein/networkdesign) - This design is meant to be the best possible scenario for a college apartment network. 
-
 [tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on user activity.
 
 [tlklein/mongodb-exercises](https://github.com/tlklein/mongodb-exercises)- A collection of various scripts for working in the back-end of a MongoDB Database.
 
 [tlklein/oracle-sql-clouddb](https://github.com/tlklein/oracle-sql-clouddb) - A collection of documents and scripts for an Oracle SQL database using Oracle SQL Developer.
+
+[tlklein/networkdesign](https://github.com/tlklein/networkdesign) - This design is meant to be the best possible scenario for a college apartment network. 
+
+[tlklein/networktroubleshooting](https://github.com/tlklein/networktroubleshooting) - This is documenation of basic networking troubleshooting commands
  
 # References 
 1. https://github.com/maximousblk/maximousblk/tree/main
