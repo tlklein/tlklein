@@ -8,6 +8,7 @@ I am an IT technical support at Southeast Hypnosis. I'm studying computer inform
 [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
 
  # Projects
+[tlklein/helios](https://github.com/tlklein/helios) - This is a F1 race prediction application using multiple CSV files. 
 
 [tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a MongoDB that has a front-end web & backend application to perform CRUD operations.
 
