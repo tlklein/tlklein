@@ -1,28 +1,13 @@
-![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
+![banner](https://img.itch.zone/aW1nLzE2MTM4NDEucG5n/original/%2B9g6CM.png)
 
-# Hello, my name is Trinity Klein! 
+## Howdy! I'm Trinity! 👋
 
-I am an IT technical support at Southeast Hypnosis. I'm studying computer information systems at the University of Houston. It's nice to see you on my github profile. Please send me an email if you have any questions or inquiries. 
+🫀🎴 INTJ / Virgo
 
-[`📧 tlklein@cougarnet.uh.edu`](mailto:tlklein@cougarnet.uh.edu)
-[`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
+- 🔨 Python, Java, JavaScript/Typescript, & SQL
+- IT Technical Support @ Southeast Hypnosis
+- CIS Major @ UH Main
+- [`📧 tlklein@cougarnet.uh.edu`](mailto:tlklein@cougarnet.uh.edu)
+- [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
 
- # Projects
-[tlklein/helios](https://github.com/tlklein/helios) - This is a F1 race prediction application using multiple CSV files. 
-
-[tlklein/mongodb-crud-rest-api](https://github.com/tlklein/mongodb-crud-rest-api)- This is a MongoDB that has a front-end web & backend application to perform CRUD operations.
-
-[tlklein/simple-form-vue](https://github.com/tlklein/simple-form-vue) - This code is a simple form app in VueJS that can calculate the total of facilities based on user activity.
-
-[tlklein/mongodb-exercises](https://github.com/tlklein/mongodb-exercises)- A collection of various scripts for working in the back-end of a MongoDB Database.
-
-[tlklein/oracle-sql-clouddb](https://github.com/tlklein/oracle-sql-clouddb) - A collection of documents and scripts for an Oracle SQL database using Oracle SQL Developer.
-
-[tlklein/networkdesign](https://github.com/tlklein/networkdesign) - This design is meant to be the best possible scenario for a college apartment network. 
-
-[tlklein/networktroubleshooting](https://github.com/tlklein/networktroubleshooting) - This is documenation of basic networking troubleshooting commands
- 
-# References 
-1. https://github.com/maximousblk/maximousblk/tree/main
-2. https://github.com/ChungZH/ChungZH/edit/master/README.md
-3. https://emojipedia.org/ 
+###### 💾 EOF. Thank you for viewing.
