@@ -4,7 +4,7 @@
 
 🫀🎴 INTJ / Virgo
 
-- 🔨 Python, Java, JavaScript/Typescript, & SQL
+- 🔨 Python, Java, JavaScript/Typescript & SQL
 - IT Technical Support @ Southeast Hypnosis
 - CIS Major @ UH Main
 - [`📧 tlklein@cougarnet.uh.edu`](mailto:tlklein@cougarnet.uh.edu)
