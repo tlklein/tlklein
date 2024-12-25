@@ -5,7 +5,6 @@
 🫀🎴 INTJ / Virgo
 
 - 🔨 Python, Java, JavaScript/Typescript & SQL
-- IT Technical Support @ Southeast Hypnosis
 - Computer Information Systems Major @ UH Main
 - [`📧 tlklein@cougarnet.uh.edu`](mailto:tlklein@cougarnet.uh.edu)
 - [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
