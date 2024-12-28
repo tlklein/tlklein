@@ -2,11 +2,13 @@
 
 ## Howdy! I'm Trinity! 👋
 
-🫀🎴 INTJ / Virgo
+🫀 INTJ / Virgo
 
-- 🔨 Python, Java, JavaScript/Typescript & SQL
-- Computer Information Systems Major @ UH Main
-- [`📧 tlklein@cougarnet.uh.edu`](mailto:tlklein@cougarnet.uh.edu)
-- [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
+🔨 Python, Java, JavaScript/Typescript & SQL
+
+📑 Computer Information Systems Major @ UH Main
+
+[`📧 tlklein@cougarnet.uh.edu`](mailto:tlklein@cougarnet.uh.edu) - [`👩🏻‍💼 LinkedIn`](https://www.linkedin.com/in/trinity-klein-863a921ab/) 
+
 
 ###### 💾 EOF. Thank you for viewing.
