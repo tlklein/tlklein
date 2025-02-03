@@ -7,7 +7,7 @@ I'm a **Computer Information Systems major** at the University of Houston passio
 - 🚀 Machine Learning & AI Development  
 - ☁️ Cloud Computing & DevOps (AWS, Azure)  
 - 📊 Data Visualization & Analytics  
-- 🖌️ Digital Art & Creative Coding  
+- 🖌️ Digital Art & Painting
 
 ---
 
