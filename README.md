@@ -3,6 +3,7 @@
 <h1 align="center"><strong>Howdy! I am Trinity Klein. </strong></h1>
 <div align="center">I'm a Computer Information Systems major at the University of Houston passionate about AI, cloud computing, and data analytics. I enjoy solving real-world problems through Python, Java, and JavaScript/TypeScript while leveraging SQL for data-driven insights.</div>
 <br />
+<div align="center">
 <!-- Github Commit Stats -->
 <div align="center">
 <a href="https://github.com/tlklein/github-readme-stats">
@@ -14,6 +15,7 @@
 </a>
 <span>
 </div>
+
 <!-- Social Buttons -->
 <br />
 <div align="center">
