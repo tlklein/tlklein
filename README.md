@@ -1,4 +1,4 @@
-![Cloud Banner Gif](https://64.media.tumblr.com/bf00f56ba9db3739a3c2ea4bdda2dc9a/a77044ff233a32a4-ac/s2000x556/f821cce891c38632c74a42d266c7fa98c16b0a96.gif)
+<!-- ![Cloud Banner Gif](https://64.media.tumblr.com/bf00f56ba9db3739a3c2ea4bdda2dc9a/a77044ff233a32a4-ac/s2000x556/f821cce891c38632c74a42d266c7fa98c16b0a96.gif) -->
 
 <h1 align="center"><strong>Howdy! I am Trinity Klein. </strong></h1>
 <div align="center">I'm a Computer Information Systems major at the University of Houston passionate about AI, cloud computing, and data analytics. I enjoy solving real-world problems through Python, Java, and JavaScript/TypeScript while leveraging SQL for data-driven insights.</div>
@@ -20,7 +20,7 @@
 <img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&card_width=200&hide_border=true&role=owner,collaborator&theme=default&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's Language stats" />
 </a>
 <a href="https://github.com/tlklein/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="hhttps://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=default&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's Github stats" />
+<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=default&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's Github stats" />
 </a>
 </div>
 <br/>
