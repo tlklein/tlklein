@@ -10,7 +10,7 @@
 </a>
 <!-- Github Top Lan Stats -->
 <a href="https://github.com/tlklein/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&layout=compact&langs_count=8&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&layout=compact&langs_count=8" />
 </a>
 <span>
 </div>
