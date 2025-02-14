@@ -3,18 +3,27 @@
 <h1 align="center"><strong>Howdy! I am Trinity Klein. </strong></h1>
 <div align="center">I'm a Computer Information Systems major at the University of Houston passionate about AI, cloud computing, and data analytics. I enjoy solving real-world problems through Python, Java, and JavaScript/TypeScript while leveraging SQL for data-driven insights.</div>
 <br />
-<div align="center">
-<!-- Github Commit Stats -->
-<div align="center">
-<a href="https://github.com/tlklein/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github" />
+
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/tlklein/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Trinity Klein's Language stats" />
 </a>
-<!-- Github Top Lan Stats -->
-<a href="https://github.com/tlklein/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&layout=compact&langs_count=8" />
+<a href="https://github.com/tlklein/convoychat#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Trinity Klein's Github stats" />
 </a>
-<span>
 </div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/tlklein/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tlklein&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's Language stats" />
+</a>
+<a href="https://github.com/tlklein/convoychat#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's Github stats" />
+</a>
+</div>
+<br/>
 
 <!-- Social Buttons -->
 <br />
