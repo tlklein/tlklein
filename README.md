@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     <!-- Email Button -->
-    <a href="mailto:tlklein@cougarnet.uh.edu" style="text-decoration: none;">
+    <a href="mailto:trinitylklein@outlook.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
     </a>
     <!-- Portfolio Button -->
