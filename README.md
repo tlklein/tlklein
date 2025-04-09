@@ -41,5 +41,3 @@
         <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio">
     </a>
 </div>
-
----
