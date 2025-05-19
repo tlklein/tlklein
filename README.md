@@ -1,7 +1,7 @@
 <!-- ![Cloud Banner Gif](https://64.media.tumblr.com/bf00f56ba9db3739a3c2ea4bdda2dc9a/a77044ff233a32a4-ac/s2000x556/f821cce891c38632c74a42d266c7fa98c16b0a96.gif) -->
 
 <h1 align="center"><strong>Howdy! I am Trinity Klein. </strong></h1>
-<div align="center">I have  a Bacholors of Science in Computer Information Systems at the UH Cullen College of Engineering. I used work as an intern at Southeast Hypnosis.</div>
+<div align="center">I used work as an intern at Southeast Hypnosis. I have  a Bacholors of Science in Computer Information Systems at the UH Cullen College of Engineering.</div>
 <br />
 
 <!-- Light Mode -->
