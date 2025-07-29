@@ -1,6 +1,5 @@
-## About
-Southeast Hypnosis gained from AI integration, automation workflows, and digital contributions. She integrated an AI chatbot to boost customer appointment bookings and leads, built an automated appointment reminder funnel to reduce cancellations, and migrated the company website to WordPress, increasing performance. All these efforts streamlined operations and enhanced customer experience despite a lapse in marketing budget. </br>
-Holding a B.S. in Computer Information Systems (CIS) from the University of Houston's Cullen College of Engineering, she graduated May 2025 with cum laude honors. Her expertise includes cloud solutions, data analytics, and application development, all supported by certifications like the AWS Certified Cloud Practitioner and Cisco Data Analytics Essentials. She is committed to uniting innovative ideas with practical solutions to provide outcomes that positively affect the daily lives of customers.
+## Howdy! I am Trinity!
+Cloud Support Enthusiast with a B.S. in Computer Information Systems from the University of Houston's Cullen College of Engineering (May 2025, cum laude). Skilled in TypeScript, Vue, Python, and AWS. At Southeast Hypnosis, I integrated AI chatbots for customer bookings, built automated appointment reminder systems, and migrated their website to WordPress resulting in the streamlining of operations and enhancement of user experience.
 
 ## Projects
 - [Innov8 Business Management Platform](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject) – Developed a full-stack appointment system for a local barbershop, enabling client management, service tracking, and event scheduling via a private dashboard. 
