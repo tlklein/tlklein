@@ -1,19 +1,19 @@
 ## Howdy! I am Trinity!
-Cloud Support Enthusiast with a B.S. in Computer Information Systems from the University of Houston's Cullen College of Engineering (May 2025, cum laude). Skilled in TypeScript, Vue, Python, and AWS. At Southeast Hypnosis, I integrated AI chatbots for customer bookings, built automated appointment reminder systems, and migrated their website to WordPress resulting in the streamlining of operations and enhancement of user experience.
+Cloud enthusiast with a B.S. in Computer Information Systems from the University of Houston's Cullen College of Engeering, graduating May 2025 cum laude. Skilled in TypeScript, Vue, Python, and AWS. At Southeast Hypnosis, I integrated AI chatbots to increase customer bookings, built automated appointment reminder funnels, and migrated their website to WordPress, streamlining operations and enhancing user experience.
 
 ## Projects
 - [Innov8 Business Management Platform](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject) – Developed a full-stack appointment system for a local barbershop, enabling client management, service tracking, and event scheduling via a private dashboard. 
 - [Enterprise Data Platform Project](https://github.com/tlklein/mongodb-data-platform-project) – Developed a mock MongoDB platform simulating a Houston-area nonprofit's operational workflow to demonstrate improved data visibility, resource planning, and internal reporting capabilities for staff and volunteers
-- [College Apartment Network Design Project](https://github.com/tlklein/college-apartment-network-design) – Designed a scalable, high-availability network architecture for a mock luxury college apartment complex. Applied enterprise-grade networking principles to simulate hospitality-grade service reliability. 
-- [Vue.js Form App](https://github.com/tlklein/vuejs-form-app) – Created a dynamic pricing calculator using Vue.js, enabling users to toggle facility options and view cost estimates with real-time USD formatting. Demonstrated interactive UI development and logic implementation.
-- [IT Asset Management Database Project](https://github.com/tlklein/oracle-sql-db-project) – Built and managed an enterprise-style database for tracking IT assets, demonstrating core skills in Oracle SQL querying, data migration, PL/SQL automation, and cloud-migration planning in a structured enterprise environment.
+- [College Apartment Network Design Project](https://github.com/tlklein/college-apartment-network-design) – Designed a scalable, high-availability network architecture for a mock luxury college apartment complex. Applied enterprise-grade networking principles to simulate facility-grade service reliability. 
+- [Vue.js Form App](https://github.com/tlklein/vuejs-form-app) – Created a dynamic pricing calculator using Vue.js, enabling users to toggle amenity options and view cost estimates with real-time USD formatting. Demonstrated interactive UI development and logic implementation.
+- [IT Asset Management Database Project](https://github.com/tlklein/oracle-sql-db-project) – Built and managed an enterprise-style database for tracking IT assets, demonstrating core skills in Oracle SQL querying, data migration, PL/SQL automation, and cloud-migration planning in a structured enterprise environment. 
 
 ## Currently Learning
-- Building event-driven architecture with AWS Lambda & Step Functions
-- Automating infrastructure with Terraform and IaC best practices
+- Building event-driven architecture with AWS Lambda Functions
+- Automating infrastructure using Terraform and implementing IaC best practices
 - Using Python for backend scripting, automation, and CI/CD pipelines
-- Developing frontend interfaces with Vue 3 + Composition API 
-- Applying networking, database, and systems knowledge from the UH CIS program in real-world cloud projects
+- Developing frontend interfaces using Vue 3, Composition API, and Hugo
+- Applying networking, database, and systems knowledge in real-world cloud projects
 
 ## GitHub Stats
 <!-- Light Mode -->
