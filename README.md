@@ -1,5 +1,5 @@
 ## Howdy! I am Trinity!
-Cloud enthusiast with a B.S. in Computer Information Systems from the University of Houston's Cullen College of Engeering, graduating May 2025 cum laude. Skilled in TypeScript, Vue, Python, and AWS. At Southeast Hypnosis, I integrated AI chatbots to increase customer bookings, built automated appointment reminder funnels, and migrated their website to WordPress, streamlining operations and enhancing user experience.
+Cloud enthusiast with a B.S. in Computer Information Systems from the University of Houston's Cullen College of Engineering, graduating May 2025 cum laude. Skilled in TypeScript, Vue, Python, and AWS. At Southeast Hypnosis, I integrated AI chatbots to increase customer bookings, built automated appointment reminder funnels, and migrated their website to WordPress, streamlining operations and enhancing user experience. Open to new opportunities, please connect with me via my socials or send an email to trinitylklein@outlook.com. 
 
 ## Projects
 - [Innov8 Business Management Platform](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject) – Developed a full-stack appointment system for a local barbershop, enabling client management, service tracking, and event scheduling via a private dashboard. 
