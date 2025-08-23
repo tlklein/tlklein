@@ -1,35 +1,28 @@
-# 👋 Howdy! I’m **Trinity Klein**
- 
-B.S. in Computer Information Systems, University of Houston (Cullen College of Engineering), **Cum Laude**, May 2025.
+# Howdy, I’m Trinity Klein  👋
 
-I build pragmatic cloud solutions and delightful user experiences. I enjoy turning messy, manual workflows into reliable, automated systems, from AI chatbots that increase bookings to serverless stacks that power performance-focused portfolios.
+Cloud-focused developer with a B.S. in **Computer Information Systems** (University of Houston, May 2025, cum laude). Skilled in **AWS, TypeScript, Vue, Python**, and **data-driven automation**.  
 
-> **Open to new opportunities.** If you'd like to collaborate or chat about cloud, automation, or data, I'd love to hear from you, **trinitylklein@outlook.com**
+At **Southeast Hypnosis**, I:  
+- Integrated an **AI chatbot** → boosted bookings & leads  
+- Built **automated reminder funnels** → reduced cancellations  
+- Migrated site to **WordPress** → improved UX & site performance  
 
----
+I love building **cloud-native, automation-driven solutions** that solve real business problems.  
 
-## 🔭 Featured Projects
+## 🔨 Featured Projects
+- [**Innov8 Business Platform**](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject) – Full-stack appointment system w/ client dashboards & scheduling  
+- [**MongoDB Data Platform**](https://github.com/tlklein/mongodb-data-platform-project) – Simulated nonprofit application for better visibility & reporting  
+- [**Network Design Project**](https://github.com/tlklein/college-apartment-network-design) – High-availability network for mock luxury apartments  
+- [**Vue.js Form App**](https://github.com/tlklein/vuejs-form-app) – Interactive pricing calculator with real-time cost estimates  
+- [**IT Asset Database**](https://github.com/tlklein/oracle-sql-db-project) – Oracle SQL system for IT asset tracking 
 
-> Short descriptions + links, click to explore the code and demos.
+## 📚 Currently Learning
+- Event-driven apps w/ **AWS Lambda**  
+- IaC & automation using **Terraform**  
+- Backend scripting + pipelines in **Python**  
+- Modern frontend w/ **Vue 3** & **Hugo**  
 
-- **[Innov8 Business Management Platform](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)**  
-  Full-stack appointment & business management for a local barbershop, client management, service tracking, and event scheduling via a private dashboard.
-
-- **[Enterprise Data Platform Project](https://github.com/tlklein/mongodb-data-platform-project)**  
-  Mock MongoDB platform simulating a Houston-area nonprofit’s workflows to demonstrate improved data visibility, planning, and reporting.
-
-- **[College Apartment Network Design Project](https://github.com/tlklein/college-apartment-network-design)**  
-  High-availability network architecture design for a mock luxury apartment complex, enterprise networking concepts simulated for reliability.
-
-- **[Vue.js Form App](https://github.com/tlklein/vuejs-form-app)**  
-  Dynamic pricing calculator built with Vue.js, toggle amenities and see real-time USD estimates with polished UX.
-
-- **[IT Asset Management Database Project](https://github.com/tlklein/oracle-sql-db-project)**  
-  Enterprise-style Oracle database for tracking IT assets: schema design, migrations, PL/SQL automation, and cloud-migration planning.
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats  
 
 <!-- Light Mode -->
 <div align="left"> 
@@ -51,9 +44,7 @@ I build pragmatic cloud solutions and delightful user experiences. I enjoy turni
 </a>
 </div>
 
----
-
-## 💬 Connect
+## 🌐 Connect
 
 <div align="left">
   <a href="https://linkedin.com/in/trinity-klein" target="_blank">
@@ -72,6 +63,6 @@ I build pragmatic cloud solutions and delightful user experiences. I enjoy turni
 
 ---
 
-<div align="center">
-  Thanks for visiting. Let’s build something innovative together! ✨
+<div align="left">
+  Thanks for visiting. Let’s build something beautiful together! ✨
 </div>
