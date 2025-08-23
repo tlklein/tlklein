@@ -1,87 +1,82 @@
-# 👋 Howdy! I’m Trinity
+<!--
+  README.md — Trinity Klein (Cloud Resume / Portfolio)
+  Drop this into your profile repo. Replace any placeholder links if needed.
+-->
 
-Cloud enthusiast | Builder | Lifelong learner 🚀  
+# 👋 Howdy! I’m **Trinity Klein**
+ 
+B.S. in Computer Information Systems, University of Houston (Cullen College of Engineering), **Cum Laude**, May 2025.
 
-I’m a Computer Information Systems graduate (B.S., Cum Laude – University of Houston, Cullen College of Engineering, May 2025) passionate about **cloud solutions, automation, and data-driven applications**.  
+I build pragmatic cloud solutions and delightful user experiences. I enjoy turning messy, manual workflows into reliable, automated systems, from AI chatbots that increase bookings to serverless stacks that power performance-focused portfolios.
 
-💡 At Southeast Hypnosis, I:  
-- Integrated an **AI chatbot** to boost customer bookings  
-- Automated **appointment reminders** to reduce cancellations  
-- Migrated the website to **WordPress**, improving performance & user experience  
-
-These projects taught me how to **bridge technical innovation with business outcomes**, and I bring that same mindset to everything I build.  
-
----
-
-## 🛠️ Featured Projects
-
-- [**Innov8 Business Management Platform**](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)  
-   Built a full-stack appointment & client management platform for a local barbershop. Features include scheduling, service tracking, and event management via a secure dashboard.  
-
-- [**Enterprise Data Platform (MongoDB)**](https://github.com/tlklein/mongodb-data-platform-project)  
-   Modeled nonprofit operations using MongoDB, showcasing improved visibility for resource planning and internal reporting.  
-
-- [**College Apartment Network Design**](https://github.com/tlklein/college-apartment-network-design)  
-   Designed a **high-availability, scalable network** for a mock luxury apartment complex using enterprise networking principles.  
-
-- [**Vue.js Dynamic Pricing Calculator**](https://github.com/tlklein/vuejs-form-app)  
-   Developed an interactive Vue.js app that calculates and formats costs in real time with toggleable amenity options.  
-
-- [**IT Asset Management Database (Oracle SQL)**](https://github.com/tlklein/oracle-sql-db-project)  
-   Designed and managed an enterprise-grade Oracle SQL database with automation, data migration, and cloud-migration planning.  
+> **Open to new opportunities.** If you'd like to collaborate or chat about cloud, automation, or data, I'd love to hear from you, **trinitylklein@outlook.com**
 
 ---
 
-## 📚 Currently Exploring
-- Event-driven architectures with **AWS Lambda**  
-- **Terraform + IaC** for cloud automation  
-- Backend scripting, automation, and pipelines in **Python**  
-- Modern UI development with **Vue 3 + Composition API**  
-- Applying **networking, databases, and systems knowledge** in real-world cloud projects  
+## 🔭 Featured Projects
+
+> Short descriptions + links, click to explore the code and demos.
+
+- **[Innov8 Business Management Platform](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)**  
+  Full-stack appointment & business management for a local barbershop, client management, service tracking, and event scheduling via a private dashboard.
+
+- **[Enterprise Data Platform Project](https://github.com/tlklein/mongodb-data-platform-project)**  
+  Mock MongoDB platform simulating a Houston-area nonprofit’s workflows to demonstrate improved data visibility, planning, and reporting.
+
+- **[College Apartment Network Design Project](https://github.com/tlklein/college-apartment-network-design)**  
+  High-availability network architecture design for a mock luxury apartment complex, enterprise networking concepts simulated for reliability.
+
+- **[Vue.js Form App](https://github.com/tlklein/vuejs-form-app)**  
+  Dynamic pricing calculator built with Vue.js, toggle amenities and see real-time USD estimates with polished UX.
+
+- **[IT Asset Management Database Project](https://github.com/tlklein/oracle-sql-db-project)**  
+  Enterprise-style Oracle database for tracking IT assets: schema design, migrations, PL/SQL automation, and cloud-migration planning.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <!-- Light Mode -->
 <div align="left"> 
 <a href="https://github.com/tlklein/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&card_width=200&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Trinity Klein's stats" />
+  <img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&card_width=200&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Trinity Klein's GitHub stats" />
 </a>
 <a href="https://github.com/tlklein/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=default#gh-light-mode-only" alt="Trinity Klein's top languages" />
+  <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=default#gh-light-mode-only" alt="Top languages" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="left"> 
 <a href="https://github.com/tlklein/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&card_width=200&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's stats" />
+  <img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&card_width=200&hide_border=true&role=owner,collaborator&theme=default&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's GitHub stats (dark)" />
 </a>
 <a href="https://github.com/tlklein/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's top languages" />
+  <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=default&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Top languages (dark)" />
 </a>
 </div>
 
 ---
 
-## 🌐 Let’s Connect
+## 💬 Connect
 
 <div align="left">
-    <a href="https://linkedin.com/in/trinity-klein" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://dev.to/tlklein" target="_blank">
-        <img src="https://img.shields.io/badge/Dev.to-Articles-black?style=for-the-badge&logo=dev.to" alt="Dev.to">
-    </a>
-    <a href="mailto:trinitylklein@outlook.com">
-        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-    <a href="https://www.trinityklein.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio">
-    </a>
+  <a href="https://linkedin.com/in/trinity-klein" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://dev.to/tlklein" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-Read_blogs-blue?style=for-the-badge&logo=dev.to" alt="Dev.to">
+  </a>
+  <a href="mailto:trinitylklein@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.trinityklein.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio">
+  </a>
 </div>
 
 ---
 
-Thanks for stopping by! I’m always excited to connect with other builders, innovators, and cloud enthusiasts. If you’re working on something cool, let’s chat! ✨
+<div align="center">
+  Thanks for visiting. Let’s build something innovative together! ✨
+</div>
