@@ -1,8 +1,3 @@
-<!--
-  README.md — Trinity Klein (Cloud Resume / Portfolio)
-  Drop this into your profile repo. Replace any placeholder links if needed.
--->
-
 # 👋 Howdy! I’m **Trinity Klein**
  
 B.S. in Computer Information Systems, University of Houston (Cullen College of Engineering), **Cum Laude**, May 2025.
