@@ -53,9 +53,9 @@ I love building **cloud-native, automation-driven solutions** that solve real bu
   <a href="https://dev.to/tlklein" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-Read_blogs-blue?style=for-the-badge&logo=dev.to" alt="Dev.to">
   </a>
-  <a href="mailto:trinitylklein@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+    <a href="mailto:tlklein05@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    </a>
   <a href="https://www.trinityklein.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
