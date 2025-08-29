@@ -11,9 +11,9 @@ I love building **cloud-native, automation-driven solutions** that solve real bu
 
 ## 🔨 Featured Projects
 - [**Innov8 Business Platform**](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject) – Full-stack appointment system w/ client dashboards & scheduling  
-- [**MongoDB Data Platform**](https://github.com/tlklein/mongodb-data-platform-project) – Simulated nonprofit application for better visibility & reporting  
-- [**Network Design Project**](https://github.com/tlklein/college-apartment-network-design) – High-availability network for mock luxury apartments  
-- [**IT Asset Database**](https://github.com/tlklein/oracle-sql-db-project) – Oracle SQL system for IT asset tracking 
+- [**Enterprise Data Platform**](https://github.com/tlklein/mongodb-data-platform-project) – Simulated nonprofit application for better visibility & reporting  
+- [**IT Asset Database**](https://github.com/tlklein/oracle-sql-db-project) – Oracle PL/SQL system for an IT asset tracking database
+- [**College Apartment Network Design**](https://github.com/tlklein/college-apartment-network-design) – High-availability network for mock luxury apartments  
 
 ## 📚 Currently Learning
 - Event-driven apps w/ **AWS Lambda**  
