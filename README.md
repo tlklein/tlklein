@@ -1,4 +1,4 @@
-# Howdy, I’m Trinity Klein  👋
+# Howdy, I’m Trinity Klein
 
 Cloud-focused developer with a B.S. in **Computer Information Systems** (University of Houston, May 2025, cum laude). Skilled in **AWS, JavaScript, Vue, Python**, and **data-driven automation**.  
 
@@ -9,20 +9,20 @@ At **Southeast Hypnosis**, I:
 
 I love building **cloud-native, automation-driven solutions** that solve real business problems.  
 
-## 🔨 Featured Projects
+## Featured Projects
 - [**Innov8 Business Platform**](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject) – Full-stack appointment system w/ client dashboards & scheduling  
 - [**Enterprise Data Platform**](https://github.com/tlklein/mongodb-data-platform-project) – Simulated nonprofit application for better visibility & reporting  
 - [**IT Asset Database**](https://github.com/tlklein/oracle-sql-db-project) – Oracle PL/SQL system for an IT asset tracking database
 - [**Multi-Step Cyber Attack Simulation**](https://github.com/tlklein/multi-step-cyber-attack) - Emulates TTPs used by compromise an organization
 - [**College Apartment Network Design**](https://github.com/tlklein/college-apartment-network-design) – High-availability network for mock luxury apartments
 
-## 📚 Currently Learning
+## Currently Learning
 - Event-driven apps w/ **AWS Lambda**  
 - IaC & automation using **Terraform**  
 - Backend scripting + pipelines in **Python**  
 - Modern frontend w/ **Vue 3** & **Hugo**  
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <!-- Light Mode -->
 <div align="left"> 
@@ -44,7 +44,7 @@ I love building **cloud-native, automation-driven solutions** that solve real bu
 </a>
 </div>
 
-## 🌐 Connect
+## Connect
 
 <div align="left">
   <a href="https://linkedin.com/in/trinity-klein" target="_blank">
@@ -66,5 +66,5 @@ I love building **cloud-native, automation-driven solutions** that solve real bu
 ---
 
 <div align="left">
-  Thanks for visiting. Let’s build something beautiful together! ✨
+  Thanks for visiting. Let’s build something beautiful together!
 </div>
