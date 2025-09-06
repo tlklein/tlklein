@@ -1,6 +1,6 @@
-# Howdy, I’m Trinity Klein
+# Howdy, I’m Trinity Klein!
 
-Cloud-focused developer with a B.S. in **Computer Information Systems** (University of Houston, May 2025, cum laude). Skilled in **AWS, JavaScript, Vue, Python**, and **data-driven automation**.  
+Cloud-focused developer with a B.S. in **Computer Information Systems** (University of Houston, Cum Laude). Skilled in **AWS, JavaScript, Vue, Python**, and **data-driven automation**.  
 
 At **Southeast Hypnosis**, I:  
 - Integrated an **AI chatbot** → boosted bookings & leads  
