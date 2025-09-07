@@ -1,71 +1,56 @@
-# Howdy, I’m Trinity Klein!
+# Howdy, I’m Trinity Klein 👋
+I’m an Applications Software Engineer and AWS Cloud Developer passionate about building scalable systems, secure architectures, and user-focused solutions. My experience spans cloud infrastructure, full-stack development, and cybersecurity simulations,  with an emphasis on automation, CI/CD, and modern development practices. 
 
-Cloud-focused developer with a B.S. in **Computer Information Systems** from The University of Houston, graduating Cum Laude. </br>
-Skilled in **AWS, JavaScript, Vue, Python**, and **data-driven automation**.  
+---
+
+## 🚀 Projects
 <!-- 
-At **Southeast Hypnosis**, I:  
-- Integrated an **AI chatbot** → boosted bookings & leads  
-- Built **automated reminder funnels** → reduced cancellations  
-- Migrated site to **WordPress** → improved UX & site performance  
+### [Cloud Resume Challenge](https://github.com/tlklein/cloud-resume-challenge)  
+Built a full-stack **serverless resume website** using AWS (S3, CloudFront, DynamoDB, Lambda) with CI/CD pipelines via GitHub Actions.  
+*Highlights:* Infrastructure as Code, API Gateway, Python Lambda, Terraform. 
 -->
-I love building **cloud-native, automation-driven solutions** that solve real business problems.  
 
-## Featured Projects
-- [**Innov8 Business Platform**](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject) – Full-stack appointment system w/ client dashboards & scheduling  
-- [**Enterprise Data Platform**](https://github.com/tlklein/mongodb-data-platform-project) – Simulated nonprofit application for better visibility & reporting  
-- [**IT Asset Database**](https://github.com/tlklein/oracle-sql-db-project) – Oracle PL/SQL system for an IT asset tracking database
-- [**Multi-Step Cyber Attack Simulation**](https://github.com/tlklein/multi-step-cyber-attack) - Emulates TTPs used by compromise an organization
-- [**College Apartment Network Design**](https://github.com/tlklein/college-apartment-network-design) – High-availability network for mock luxury apartments
+### 💈[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)
+Served as Associate Project Manager + Developer on a cross-functional team to deliver a web-based scheduling and client dashboard platform for a local business.  
+*Highlights:* Agile project leadership, full-stack app design, role-based dashboards.  
 
-## Currently Learning
-- Event-driven apps w/ **AWS Lambda**  
-- IaC & automation using **Terraform**  
-- Backend scripting + pipelines in **Python**  
-- Modern frontend w/ **Vue 3** & **Hugo**  
+### 🛡️ [Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)
+Simulated real-world adversary TTPs in a TryHackMe environment, including recon, fuzzing, reverse shell creation, and privilege escalation.  
+*Highlights:* Red-team methodology, Linux exploitation, root flag capture, documented commands.  
 
-## GitHub Stats  
+## 🗄️Other Projects
+- **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** – Secure, modular full-stack app with Vue Composition API + interactive data visualizations.  
+- **[IT Asset Management Database](https://github.com/tlklein/oracle-sql-db-project)** - Oracle PL/SQL database with stored procedures, triggers, and performance tuning.
+- **GoGreen Insurance Cloud Architecture** - AWS migration strategy (VPC, EC2, IAM, S3) for a three-tier app, with proof of concept in Learner Labs.  
 
-<!-- Light Mode -->
-<div align="left"> 
-<a href="https://github.com/tlklein/github-readme-stats#gh-light-mode-only">
-  <img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&card_width=200&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Trinity Klein's GitHub stats" />
-</a>
-<a href="https://github.com/tlklein/github-readme-stats#gh-light-mode-only">
-  <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=default#gh-light-mode-only" alt="Top languages" />
-</a>
-</div>
+---
 
-<!-- Dark Mode -->
-<div align="left"> 
-<a href="https://github.com/tlklein/github-readme-stats#gh-dark-mode-only">
-  <img height=259 src="https://github-readme-stats.vercel.app/api?username=tlklein&show_icons=true&rank_icon=github&layout=compact&langs_count=12&card_width=200&hide_border=true&role=owner,collaborator&theme=default&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Trinity Klein's GitHub stats (dark)" />
-</a>
-<a href="https://github.com/tlklein/github-readme-stats#gh-dark-mode-only">
-  <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=tlklein&show_icons=true&line_height=288&hide_border=true&card_width=200&rank_icon=percentile&theme=default&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Top languages (dark)" />
-</a>
-</div>
+## 🛠️ Technical Toolbox
+- **Languages & Frameworks:** Python, JavaScript, SQL, Vue.js  
+- **Cloud & DevOps:** AWS (S3, Lambda, DynamoDB, API Gateway, IAM, VPC), Terraform, GitHub Actions  
+- **Databases:** Oracle PL/SQL, MongoDB, DynamoDB  
+- **Cybersecurity:** Linux exploitation, REST API fuzzing, privilege escalation, red-team simulation  
+- **Other:** Agile/Scrum, Project Management, CI/CD  
 
-## Connect
+---
 
+## 📫 Let’s Connect!
 <div align="left">
+  <!-- 
+  <a href="https://www.trinityklein.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" alt="Portfolio">
+  </a>
+  -->
   <a href="https://linkedin.com/in/trinity-klein" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://dev.to/tlklein" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-Read_blogs-blue?style=for-the-badge&logo=dev.to" alt="Dev.to">
   </a>
-    <a href="mailto:tlklein05@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-<!-- 
-  <a href="https://www.trinityklein.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio">
-  </a>
--->
 </div>
 
 ---
 
 <div align="left">
-  Thanks for visiting. Let’s build something beautiful together!
+  Thanks for visiting. Let’s build something beautiful together! ⭐️
 </div>
