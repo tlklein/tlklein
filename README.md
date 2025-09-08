@@ -1,4 +1,4 @@
-# Howdy, I’m Trinity Klein 👋
+# 👋 Howdy, I’m Trinity Klein 
 I’m an Applications Software Engineer and AWS Cloud Developer passionate about building scalable systems, secure architectures, and user-focused solutions. My experience spans cloud infrastructure, full-stack development, and cybersecurity simulations,  with an emphasis on automation, CI/CD, and modern development practices. 
 
 ---
