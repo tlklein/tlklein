@@ -1,5 +1,7 @@
 # Howdy, I’m Trinity Klein!
-I am recent graduate from the Cullen College of Engineering, with Bachelors in Computer Information Systems (CIS). I graduated cum luade in May 2025. My experience surrounds cloud infrastructure, full-stack development, cybersecurity, and database management. Currently, I am in the process of coding my portfolio, and automating deployment using Terraform/GitHub Actions. Currently, I am seeking new opportunities, please do not hesitate to connect with me via my socials or send an email to tlklein05@gmail.com.
+I am recent graduate from the Cullen College of Engineering, with Bachelors in Computer Information Systems (CIS). I graduated cum luade in May 2025. My experience surrounds cloud infrastructure, full-stack development, cybersecurity, and database management. Currently, I am in the process of coding my portfolio, and automating deployment using Terraform/GitHub Actions. 
+
+Also, I am seeking new opportunities, so please do not hesitate to connect with me via my socials or send an email to tlklein05@gmail.com.
 
 ## Projects
 - **The Cloud Resume Challenge** - Built a full-stack serverless resume website using AWS S3, CloudFront, DynamoDB, and Lambda, while automating deployment with CI/CD pipelines via GitHub Actions, and Terraform.   
