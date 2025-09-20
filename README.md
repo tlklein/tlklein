@@ -4,12 +4,12 @@ I am recent graduate from the Cullen College of Engineering, with Bachelors in C
 Also, I am seeking new opportunities, so please do not hesitate to connect with me via my socials or send an email to tlklein05@gmail.com.
 
 ## Projects
-- **The Cloud Resume Challenge** - Built a full-stack serverless resume website using AWS S3, CloudFront, DynamoDB, and Lambda, while automating deployment with CI/CD pipelines via GitHub Actions, and Terraform.   
-- **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - Served as Associate Project Manager on a cross-functional team to deliver a full-stack, web-based scheduling and client dashboard platform for a local barber.  
-- **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)**- Simulated real-world adversary TTPs in a TryHackMe lab, using recon, fuzzing, reverse shell creation, and privilege escalation. 
-- **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** – Secure, modular full-stack application using Vue Composition API and featuring interactive data visualizations.  
+- **The Cloud Resume Challenge** - Built a full-stack serverless resume website using AWS infrastructure, while automating deployment with CI/CD pipelines via GitHub Actions, and Terraform.   
+- **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - Served as APM to deliver a full-stack management  platform for a local barbershop.  
+- **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - Simulated real-world cyber-attack in a TryHackMe lab.
+- **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** – Full-stack application using Vue Composition API and featuring interactive data visualizations.  
 - **[IT Asset Management Database](https://github.com/tlklein/oracle-sql-db-project)** - Oracle PL/SQL database with stored procedures, triggers, and performance tuning.
-- **GoGreen Insurance Cloud Architecture** - AWS migration strategy using VPC, EC2, IAM, S3 for a three-tier insurance file storage application, with proof-of-concept in Learner Labs, architecture diagrams, and a defense presentation.  
+- **GoGreen Insurance Cloud Architecture** - AWS architecture for a three-tier insurance file storage application, with proof-of-concept in Learner Labs, architecture diagrams, and presentation.  
 
 ## Technical Skills
 - **Computer**: Java, Python, JavaScript, HTML/CSS, MySQL, Linux/Windows, AWS (EC2, VPC, IAM, S3), Microsoft Excel
