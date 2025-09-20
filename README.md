@@ -16,18 +16,6 @@ I am recent graduate from the Cullen College of Engineering, with Bachelors in C
 
 ## Let’s Connect!
 <div align="left">
-  <a href="https://www.facebook.com/trinity.klein.560/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://tiktok.com/@trinitylklein" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Follow-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://instagram.com/trinitylklein" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/trinitylklein" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   <a href="https://linkedin.com/in/trinity-klein" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
