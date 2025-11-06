@@ -10,7 +10,8 @@ Also, I am seeking new opportunities, so please do not hesitate to connect with 
 - **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - Served as APM to deliver a full-stack management  platform for a local barbershop.
 - **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** – Full-stack application using Vue Composition API and featuring interactive data visualizations.  
 - **[IT Asset Management Database](https://github.com/tlklein/oracle-sql-db-project)** - Oracle PL/SQL database with stored procedures, triggers, and performance tuning.
-- **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - Simulated real-world cyber-attack in a TryHackMe lab. 
+- **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - Simulated real-world cyber-attack in a TryHackMe lab.
+- **[College Apartment Network Design](https://github.com/tlklein/college-apartment-network-design)**- Network plan for a robust, high-performance network for a luxury college apartment.
 - **GoGreen Insurance Cloud Architecture** - AWS architecture for a three-tier insurance file storage application, with proof-of-concept in Learner Labs, architecture diagrams, and presentation.
 
 ## Technical Skills
