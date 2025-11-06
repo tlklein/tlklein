@@ -6,7 +6,7 @@ Also, I am seeking new opportunities, so please do not hesitate to connect with 
 
 ## Projects
 
-- **The Cloud Resume Challenge** - Built a full-stack serverless resume website using AWS infrastructure, while automating deployment with CI/CD pipelines via GitHub Actions, and Terraform.
+- **[Cloud Resume Challenge](https://github.com/tlklein/portfolio-website)** - Built a full-stack serverless resume website using AWS infrastructure, while automating deployment with CI/CD pipelines via GitHub Actions, and Terraform.
 - **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - Served as APM to deliver a full-stack management  platform for a local barbershop.  
 - **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - Simulated real-world cyber-attack in a TryHackMe lab.
 - **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** – Full-stack application using Vue Composition API and featuring interactive data visualizations.  
