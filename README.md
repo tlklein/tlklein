@@ -2,7 +2,7 @@
 
 I engineer resilient, automated cloud ecosystems. My focus is on bridge-building between code and infrastructure, reducing deployment friction while maintaining high security and cost standards.
 
-[Portfolio](https://www.trinityklein.dev/) • [Linkedin](https://linkedin.com/in/trinity-klein) • [Blog](https://dev.to/tlklein)
+[Portfolio](https://www.trinityklein.dev/) • [Linkedin](https://linkedin.com/in/trinity-klein) • [Blog](https://dev.to/tlklein) • [Email](mailto:tlklein05@gmail.com)
 
 ## Featured Projects ##
 
