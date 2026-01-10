@@ -1,6 +1,6 @@
 # Howdy, I’m Trinity Klein #
 
-I engineer resilient, automated cloud ecosystems. My focus is on bridge-building between code and infrastructure, reducing deployment friction while maintaining high security and cost standards.
+Cloud Developer with a B.S. in Computer Information Systems (Cum Laude) from the University of Houston and AWS Cloud Practitioner certification. Experienced in designing, deploying, and automating cloud-native applications using AWS services (Lambda, S3, DynamoDB, CloudFront), serverless computing, and CI/CD pipelines with Terraform and GitHub Actions. Delivered measurable impact through full-stack application development, workflow automation, and AI-integrated solutions that optimize performance, scalability, and operational efficiency.
 
 [Portfolio](https://www.trinityklein.dev/) • [Linkedin](https://linkedin.com/in/trinity-klein) • [Blog](https://dev.to/tlklein) • [Email](mailto:tlklein05@gmail.com)
 
