@@ -7,7 +7,7 @@ Cloud Developer with a B.S. in Computer Information Systems (Cum Laude) from the
 ## Featured Projects ##
 
 - **[Cloud Resume Challenge](https://github.com/tlklein/portfolio-website)** - Built a full-stack serverless resume website using AWS, Terraform, and GitHub Actions.
-- **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - Served as APM to deliver a full-stack barber shop management platform.
+- **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - A full-stack web application built for a local barbershop owner, featuring a public-facing site and a private dashboard to manage clients, services, and appointments. Frontend powered by Vue.js, backend with Node.js/Express, and MySQL hosted on AWS RDS. Designed to streamline operations, reduce scheduling conflicts, and improve customer experience.
 - **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** - Developed a full-stack Vue app with interactive dashboards.
 - **[IT Asset Management Database](https://github.com/tlklein/oracle-sql-db-project)** - Built a robust Oracle PL/SQL database with stored procedures, triggers, and performance tuning.
 - **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - Conducted a multi-step attack simulation in a TryHackMe lab environment.
