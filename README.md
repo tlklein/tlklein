@@ -10,7 +10,7 @@ I’m a Cloud Developer with a B.S. in Computer Information Systems (Cum Laude) 
 - **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - A full-stack web application built for a local barbershop owner, featuring a public-facing site and a private dashboard to manage clients, services, and appointments.
 - **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** - A full-stack data platform built with Vue 3 and Node.js to manage events, services, and client data. Features role-based access control, interactive data visualizations, and a modular MEVN architecture designed for maintainability and real-world scalability.
 - **[IT Asset Management Database](https://github.com/tlklein/oracle-sql-db-project)** - A production-oriented relational database with constraints, automation, cloud migration, and performance tuning.
-- **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - End-to-end penetration testing exercise covering reconnaissance, exploitation, reverse engineering, and privilege escalation.
+- **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - A end-to-end penetration testing exercise covering reconnaissance, exploitation, reverse engineering, and privilege escalation.
 - **[College Apartment Network Design](https://github.com/tlklein/college-apartment-network-design)** - Designed a full network architecture with redundancy, performance optimization, and security considerations.
 - **GoGreen Insurance Cloud Architecture (design-only)** - Three-tier AWS architecture for secure, scalable file storage; includes diagrams and proof-of-concept notes.
 
