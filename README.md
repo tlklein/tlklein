@@ -23,6 +23,6 @@ I’m a Cloud Developer with a B.S. in Computer Information Systems (Cum Laude) 
 
 ## Currently Refining
 
-- **Deep Dive:** Studying for Certified Kubernetes Administrator (CKA) to master cluster internals.
+- **Deep Dive:** Studying for AWS Certified Solution Architect Exam to improve my technical knowloedge in cloud infrastructure and services.
 - **Tools:** Exploring Crossplane for Kubernetes-native infrastructure management.
 - **Architecture:** Mastering Event-Driven Design patterns for serverless workloads.
