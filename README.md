@@ -1,8 +1,8 @@
 # Howdy, I’m Trinity Klein 
 
-I’m a Cloud Developer with a B.S. in Computer Information Systems (Cum Laude) and AWS Cloud Practitioner certification. I build cloud-native and full-stack systems with a focus on automation, infrastructure as code, and scalable application design. My work spans serverless AWS projects, CI/CD pipelines, and production-style applications that solve real operational problems.
+I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) and AWS Certified Cloud Practitioner who architects, deploys, and automates scalable cloud infrastructure and full-stack systems. My specialties include serverless architectures (Lambda, API Gateway, S3, DynamoDB), Infrastructure as Code (Terraform), CI/CD pipelines (GitHub Actions), and security-focused design. I'm experienced with Python, Node.js, Vue.js, database engineering, and network architecture.
 
-[Portfolio](https://www.trinityklein.dev/) • [Linkedin](https://linkedin.com/in/trinity-klein) • [Blog](https://dev.to/tlklein) • [Email](mailto:tlklein05@gmail.com)
+[Portfolio](https://www.trinityklein.dev/) • [Linkedin](https://linkedin.com/in/trinity-klein) • [Email](mailto:tlklein05@gmail.com)
 
 ## Featured Projects 
 
