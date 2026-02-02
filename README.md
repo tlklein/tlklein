@@ -2,7 +2,7 @@
 
 I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) and AWS Certified Cloud Practitioner who architects, deploys, and automates scalable cloud infrastructure and full-stack systems. My specialties include serverless architectures (Lambda, API Gateway, S3, DynamoDB), Infrastructure as Code (Terraform), CI/CD pipelines (GitHub Actions), and security-focused design. I'm experienced with Python, Node.js, Vue.js, database engineering, and network architecture.
 
-[Portfolio](https://www.trinityklein.dev/) • [Linkedin](https://linkedin.com/in/trinity-klein) • [Email](mailto:trinitylklein@outlook.com)
+[Portfolio](https://www.trinityklein.dev/) • [Linkedin](https://linkedin.com/in/trinity-klein) • trinitylklein@outlook.com
 
 ## Featured Projects 
 
