@@ -16,13 +16,10 @@ I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) 
 
 ## Technical Stack
 
-- **Infrastructure:** Terraform (HCL), AWS (Lambda, DynamoDB, IAM), Cloud Native Architecture
-- **DevSecOps:** GitHub Actions, Supply-Chain Security, Infrastructure Hardening, CI/CD
-- **Development:** Python, SQL, JavaScript, REST API Design, Serverless Patterns
-- **Security:** Zero-Trust (Least Privilege), SSL/TLS, DNS Management, Encryption at Rest/Transit
+-	**Cloud/DevOps:** AWS (Lambda, S3, CloudFront, DynamoDB, API Gateway, IAM); Terraform; GitHub Actions; CI/CD
+-	**Languages:** Python; JavaScript; SQL; Bash; HCL
+-	**Frameworks:** Node.js; Vue.js; React; Hugo; Astro
+-	**Security:** IAM; OIDC; SSL/TLS; Encryption; Network Security
 
-## Currently Refining
-
-- **Deep Dive:** Studying for AWS Certified Solution Architect Exam to improve my technical knowloedge in cloud infrastructure and services.
-- **Tools:** Exploring Crossplane for Kubernetes-native infrastructure management.
-- **Architecture:** Mastering Event-Driven Design patterns for serverless workloads.
+## Currently
+- Studying for AWS Certified Solution Architect Exam
