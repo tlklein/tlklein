@@ -6,6 +6,7 @@ I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) 
 
 ## Featured Projects 
 
+- **[Resume](https://github.com/tlklein/resume)** - Automated generation of my professional resume using Docker, LaTeX, with ATS optimized formatting.
 - **[Cloud Resume Project](https://github.com/tlklein/portfolio-website)** - A fully serverless, end-to-end web application showcasing cloud-native design and automation. Built on AWS using S3, CloudFront, Lambda, and DynamoDB, deployed via Terraform with GitHub Action CI/CD pipelines. 
 - **[Innov8 Barber Shop Management System](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - A full-stack web application built for a local barbershop owner, featuring a public-facing site and a private dashboard to manage clients, services, and appointments.
 - **[Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** - A full-stack data platform built with Vue 3 and Node.js to manage events, services, and client data. Features role-based access control, interactive data visualizations, and a modular MEVN architecture designed for maintainability and real-world scalability.
@@ -14,7 +15,7 @@ I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) 
 - **[College Apartment Network Design](https://github.com/tlklein/college-apartment-network-design)** - A high-performance network architecture for a luxury college apartment complex - hospitality-grade connectivity, segmented security, and operational manageability.
 - **GoGreen Insurance Cloud Architecture (design-only)** - Three-tier AWS architecture for secure, scalable file storage; includes diagrams and proof-of-concept notes.
 
-## Technical Stack
+## Technical Skills
 
 -	**Cloud/DevOps:** AWS (Lambda, S3, CloudFront, DynamoDB, API Gateway, IAM); Terraform; GitHub Actions; CI/CD
 -	**Languages:** Python; JavaScript; SQL; Bash; HCL
@@ -22,4 +23,4 @@ I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) 
 -	**Security:** IAM; OIDC; SSL/TLS; Encryption; Network Security
 
 ## Currently
-- Studying for AWS Certified Solution Architect Exam
+- Studying for AWS Certified Solution Architect Exam and exploring Docker.
