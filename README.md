@@ -6,9 +6,9 @@ I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) 
 
 ## Featured Projects 
 
-- **[Resume Automation Pipeline](https://github.com/tlklein/resume)** - Automated generation of my professional resume using Docker, LaTeX, with ATS optimized formatting.
 - **[Serverless Portfolio Website](https://github.com/tlklein/portfolio-website)** - A fully serverless, end-to-end web application showcasing cloud-native design and automation. Built on AWS using S3, CloudFront, Lambda, and DynamoDB, deployed via Terraform with GitHub Action CI/CD pipelines. 
 - **[Innov8 Barber Shop Management Platform](https://github.com/tlklein/CIS-4375-Team3-CapstoneProject)** - A full-stack web application built for a local barbershop owner, featuring a public-facing site and a private dashboard to manage clients, services, and appointments.
+- **[Resume Automation Pipeline](https://github.com/tlklein/resume)** - Automated generation of my professional resume using Docker, LaTeX, with ATS optimized formatting.
 - **[Full-Stack Enterprise Data Platform](https://github.com/tlklein/mongodb-data-platform-project)** - A full-stack data platform built with Vue 3 and Node.js to manage events, services, and client data. Features role-based access control, interactive data visualizations, and a modular MEVN architecture designed for maintainability and real-world scalability.
 - **[IT Asset Management Database](https://github.com/tlklein/oracle-sql-db-project)** - A production-oriented relational database with constraints, automation, cloud migration, and performance tuning.
 - **[Multi-Step Cyber Attack Simulation](https://github.com/tlklein/multi-step-cyber-attack)** - A end-to-end penetration testing exercise covering reconnaissance, exploitation, reverse engineering, and privilege escalation.
