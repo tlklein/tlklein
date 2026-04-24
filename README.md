@@ -18,8 +18,8 @@ I am a Cloud & DevOps Engineer (B.S., Computer Information Systems - Cum Laude) 
 ## Technical Skills
 
 - **Cloud & Infrastructure**: AWS (Lambda, S3, EC2, DynamoDB, API Gateway, IAM, CloudFront, CloudWatch), Terraform, Infrastructure as Code (IaC), AWS CLI  
-- **DevOps & Automation**: GitHub Actions (CI/CD), Git, Docker, Kubernetes (AKS/EKS basics), OIDC, Monitoring/Logging, Automated Testing, Security Best Practices, Least-Privilege IAM  
-- **Programming & Databases**: Python, JavaScript/TypeScript, Node.js, Bash, SQL, REST APIs, Express.js, Vue.js, React, MongoDB, MySQL, DynamoDB, Serverless Architecture  
+- **DevOps & Automation**: GitHub Actions (CI/CD), Git, Docker, OIDC, Monitoring/Logging, Automated Testing, Security Best Practices, Least-Privilege IAM  
+- **Programming & Databases**: Python, JavaScript/TypeScript, Node.js, Bash, SQL, REST APIs, Express.js, Vue.js, React, MongoDB, MySQL, DynamoDB, Go, JavaScript, Serrverless Architecture
 
 ## Currently
 - Studying for AWS Certified Solution Architect Exam and exploring event-driven architecture using Docker and Linux-based systems.
